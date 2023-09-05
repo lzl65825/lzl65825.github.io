@@ -6,7 +6,7 @@ layout: page
 
 <br>
 
-<img src="https://lzl65825.github.io/lizelong.jpg" class="floatpic" width="256" height="256">
+<img src="https://lzl65825.github.io/lizelong_new.jpg" class="floatpic" width="256" height="256">
 
 Here is **Zelong Li**.
 
