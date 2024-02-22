@@ -50,4 +50,4 @@ My main research topic in my Ph.D. career focuses on using  Automated Machine Le
 
 ## Visitors
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=e2KHB4YAR3FIT1F7hcvvZhHpkfeF1hFKX0nljcv8X0A" width="30px" height="30px"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=e2KHB4YAR3FIT1F7hcvvZhHpkfeF1hFKX0nljcv8X0A&cl=ffffff&w=a"></script>
