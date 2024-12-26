@@ -10,7 +10,7 @@ layout: page
 
 Here is **Zelong Li**.
 
-I received my Bachelor's in Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/) in 2019, I received my Ph.D. degree in Computer Science at [Rutgers University](https://www.cs.rutgers.edu/) in May 2024, advised by [Prof. Yongfeng Zhang](http://www.yongfeng.me/). Currently, I am working as an Applied Scientist in Amazon. Here is [my CV](https://lzl65825.github.io/file/CV_Zelong_Li.pdf).
+I received my Bachelor's in Computer Science and Technology at [Tsinghua University](https://www.cs.tsinghua.edu.cn/) in 2019, and I received my Ph.D. degree in Computer Science at [Rutgers University](https://www.cs.rutgers.edu/) in May 2024, advised by [Prof. Yongfeng Zhang](http://www.yongfeng.me/). Currently, I am working as an Applied Scientist in Amazon. Here is [my CV](https://lzl65825.github.io/file/CV_Zelong_Li.pdf).
 
 I have over 15 years of coding experience. I wrote the LOGO language to get an award in a coding competition in 2007 as a fifth-grade primary school student. I started learning C++ in 2009 as a sixth-grade primary school student and later got multiple [awards](https://lzl65825.github.io/awards/) from high school coding competitions.
 
